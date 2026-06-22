@@ -13,3 +13,6 @@ A SimPy-based Emergency Room simulation with ML wait time prediction.
 ## Results
 - Best Model: XGBoost (MAE=9.42 min, R²=0.991)
 - Key Finding: Queue length is #1 predictor of wait time
+
+---
+*Project by AlinaMehboobkhan. All simulation data is synthetically generated.*
