@@ -1,0 +1,6 @@
+Scenario,Patients,Avg_Wait_min,Max_Wait_min,Doctor_Utilization_%
+"Baseline (5 docs, 8/hr)",176,89.09,724.93,15.7
+Mass Casualty (2x arrivals),176,89.09,724.93,15.7
+Doctor Shortage (3 doctors),132,130.74,685.31,4.0
+Optimal Staffing (8 doctors),210,15.27,195.38,27.1
+"Night Shift (4 docs, 4/hr)",170,60.11,535.29,13.2
